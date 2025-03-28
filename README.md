@@ -29,7 +29,7 @@ This will open a browser window displaying the ISS location and update it every 
 Press **`Ctrl + C`** in the terminal to stop it safely.
 
 ### 🎥 Demo
-A [demo](demo.gif) file is included in the folder to showcase how the script works.
+![demo](demo.gif)
 
 ## 🛠️ Technologies Used
 - Python 🐍
